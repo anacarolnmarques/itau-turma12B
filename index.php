@@ -2,11 +2,3 @@
 Por: Ana Carolina
 <? 
 
-$i = 1;
-$n = 5;
-
-$i = $i + 500 - 300;
-
-
-
-echo "O valor da soma é $i";
